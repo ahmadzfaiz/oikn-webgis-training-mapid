@@ -1,0 +1,11 @@
+.handler-btn:hover {
+    background: grey;
+}
+
+.handler-btn.active::before {
+    content: '● ';
+}
+
+.handler-btn.inactive::before {
+    content: '○ ';
+}
