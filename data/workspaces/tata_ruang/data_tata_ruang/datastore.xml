@@ -1,0 +1,23 @@
+<dataStore>
+  <id>DataStoreInfoImpl-540c35bc:19ba81544aa:-8000</id>
+  <name>data_tata_ruang</name>
+  <description>Data tata ruang OIKN</description>
+  <type>GeoPackage</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-540c35bc:19ba81544aa:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">file:qgis/data.gpkg</entry>
+    <entry key="read_only">false</entry>
+    <entry key="dbtype">geopkg</entry>
+    <entry key="namespace">tata_ruang_demo</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2026-01-10 13:25:24.762 UTC</dateCreated>
+  <dateModified>2026-01-10 13:26:35.42 UTC</dateModified>
+  <disableOnConnFailure>false</disableOnConnFailure>
+</dataStore>

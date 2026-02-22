@@ -1,0 +1,16 @@
+<layer>
+  <name>titik</name>
+  <id>LayerInfoImpl-540c35bc:19ba81544aa:-7ff9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-540c35bc:19ba81544aa:-7ffa</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2026-01-10 13:37:40.739 UTC</dateCreated>
+</layer>

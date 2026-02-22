@@ -1,0 +1,16 @@
+<layer>
+  <name>landmark</name>
+  <id>LayerInfoImpl--6512fb33:19bf50b83c5:-7ff8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6512fb33:19bf50b83c5:-7ff9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2026-01-25 13:03:05.892 UTC</dateCreated>
+</layer>
